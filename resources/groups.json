@@ -1,11 +1,46 @@
 {
   "subGroups": {
-    
+    "Burdick": [
+      "Paul",
+      "Medea",
+      "Lody",
+      "Dan",
+      "Kera",
+      "Grace"
+    ],
+    "Staten (B)": [
+      "Ben",
+      "Carrie",
+      "Emily",
+      "Oliver"
+    ],
+    "Staten (J)": [
+      "Joe",
+      "Susan"
+    ],
+    "Staten (M)": [
+      "Mary"
+    ]
   },
   "all": [
-    
+    "Paul",
+    "Medea",
+    "Lody",
+    "Dan",
+    "Kera",
+    "Grace",
+    "Ben",
+    "Carrie",
+    "Emily",
+    "Oliver",
+    "Joe",
+    "Susan",
+    "Mary"
   ],
   "groupNames": [
-   
+    "Burdick",
+    "Staten (B)",
+    "Staten (J)",
+    "Staten (M)"
   ]
 }
